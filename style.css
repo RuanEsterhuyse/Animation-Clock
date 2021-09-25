@@ -113,55 +113,55 @@ body {
 .animation1 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInRight 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 
 .animation2 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInLeft 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 .animation3 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInUp 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 .animation4 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInLeft 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 .animation5 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInLeft 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 .animation6 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInLeft 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 .animation7 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInLeft 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 .animation8 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInLeft 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
 .animation9 {
   display: inline-block;
   font-size: 2.5rem;
-  animation: backInLeft 5s linear 1s infinite;
+  animation: rubberBand 1s linear 1s infinite;
   font-family: "Press Start 2P", cursive;
 }
